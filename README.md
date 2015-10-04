@@ -7,6 +7,7 @@ There is a known correlation between sleeping disorder and depression as the lin
 Week2:
 
 The code is in variableDistributions_WK2.R, and outputDistribution_WK2 is the report.
+
 Week3:
 
 The code is in variableDistributions_WK3.R, and outputDistribution_WK3 is the report.
