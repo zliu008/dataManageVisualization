@@ -1,0 +1,29 @@
+
+The output of the 3 variables are like the followings, where the variable name is listed in the first col, the frequency count is listed in the second col, and the percentage
+is listed at the 3rd col.  The 0-th col is just the row index. 
+
+The variable value 9 indicates unknown, and for example S4AQ1 has around 2.07% of unknown data, which does not contain any information.
+NA data means missing value, it is missing because the data is not collected, or because the case of that individual does not apply to the survey question asked. 
+For example, for S4AQ56, the data is missing because for most people, the worst period did not meet symptom criteria for major depression, and in this case, the NA should be
+recoded.   
+
+
+
+[1] "the distribution of S4AQ1:"
+  S4AQ1  Freq       Perc
+1     1 12785 0.29668392
+2     2 29416 0.68261667
+3     9   892 0.02069942
+4  <NA>     0 0.00000000
+[1] "the distribution of S4AQ2:"
+  S4AQ2  Freq      Perc
+1     1 10533 0.2444248
+2     2 31618 0.7337155
+3     9   942 0.0218597
+4  <NA>     0 0.0000000
+[1] "the distribution of S4AQ56:"
+  S4AQ56  Freq        Perc
+1      1  5838 0.135474439
+2      2  2920 0.067760425
+3      9    59 0.001369132
+4   <NA> 34276 0.795396004
