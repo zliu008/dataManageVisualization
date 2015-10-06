@@ -6,7 +6,11 @@ The frequency of each group is represented by 'Perc' below. Take the AgeGroup as
 of how often the age falls into different groups. 
 
 The NA data stands for missing entries. For the cases, like AgeGroup, there is no missing entries because each individual
-has an age that falls into the 3 age groups. For other cases, like S4AQ7_GRP, there are significant amount of missing data. These missing data is caused by answers like 'unknown', or the situation does not apply. For particular this case, S4AQ7_GRP stands for the age that the individual starts looking for help for depression, however, not everybody has problem of depression, and thus this variable does not apply for those who had no depression issues. In this case, it shows up as an NA value. 
+has an age that falls into the 3 age groups. For other cases, like S4AQ7_GRP, there are significant amount of missing data.
+These missing data is caused by answers like 'unknown', or the situation does not apply. For particular this case, 
+S4AQ7_GRP stands for the age that the individual starts looking for help for depression, however, not everybody has 
+problem of depression, and thus this variable does not apply for those who had no depression issues. 
+In this case, it shows up as an NA value. 
 
 [1] "the distribution of AgeGroup:"
   AgeGroup  Freq      Perc
