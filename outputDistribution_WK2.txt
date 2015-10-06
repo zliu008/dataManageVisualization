@@ -13,7 +13,7 @@ this case, the NA should be recoded because it is different from unknown. On the
 number 9 stands for unknown, and this should also be recoded as missing values since number '9' 
 does not provide any effective information.    
 
-
+The distributions of 3 varibles are listed as below as tables. 
 
 [1] "the distribution of S4AQ1:"
   S4AQ1  Freq       Perc
