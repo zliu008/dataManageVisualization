@@ -1,19 +1,53 @@
-This topic study the depression. The pdf code book contains the selected depression related variables.
+This topic study the causes of major depression based on the National Epidemiologic Survey of Drug Use and Health Data.
+The first step is to establish correlation between major depression and the primary causes of it. 
+In this phase, this study intends to dig quantitative insights for people with sleeping pattern, different age,  
+genetic history and social phobia issues, and quantify how these variables factor in to cause  
+major depression or exacerbate the symptoms. 
+The second step is to use all these studied predictors to build a predictive model, to 
+predict whether a person has a major depression or not based on the data from his or her
+sleeping pattern, age group, genetic history and social phobia. 
 
-Various of factors could cause depression or related to depression, 
-the following link shows the study about the relation between depression and sleeping disorder. 
-https://sleepfoundation.org/sleep-disorders-problems/depression-and-sleep
+There are established correlation between sleeping disorder and major depression
+as suggested by https://sleepfoundation.org/sleep-disorders-problems/depression-and-sleep.
+It seems that this correlation applies to all people, and thus it is interesting to 
+quantify the effect of sleeping disorder with all the other factors, like age, genetic history, 
+and social phobia issues. For example, it is possible to have the following hypothesis: 
+older people with sleeping trouble for more than 2 weeks 
+are more likely to develop a major depression than young people. 
 
-This work will also study the correlation between depression and sleeping disorder, 
-as well as other related symptomsthat may cause or caused by a major depression. 
-As suggested by the research in the link provide above, there is a strong correlation 
-between depression and sleeping disorder. Thus, it is interesting to find how other 
-factors will be exacerbate the depression or alleviate it. For example, how is the 
-age factors in to influence the level of depression? And how much role family history 
-plays? Also, it is interesting to find out the how the people with major depression 
-will function and live in their life. For example, do they have trouble concentrating? 
-Do they actually spend more time along than usual during major depression happens. 
 
-A lot of these variables are related to major depression, but this study only focus on 
-the selected one as listed in the code book and how significant they are in terms of 
-their correlation with a deep depression. 
+Other previous study has also investigated how major depression could happen in people
+with different age groups, and this can be shown in this following article. 
+Effect of age at onset on the course of major depressive disorder.
+http://www.ncbi.nlm.nih.gov/pubmed/17898345.
+
+Social phobia may be very different under different cases. Some social phobia are caused by 
+illness, pain or discomfort, while others not. In general, social phobia 
+are considered to be one factor that causing a major depression. 
+http://www.medicinenet.com/script/main/art.asp?articlekey=55170
+This study will investigate the effect of social phobia that is not caused by physical condition.
+DSOCPDXSNI12 is the variable to use for the study of this purpose.
+
+Finally, genetic history is sometimes believed to be partially responsible for a major depression.  
+There are researches that shows the depressive illnesses can run in families, while others present
+a different views. 
+http://www.webmd.com/depression/features/depression-when-its-all-in-the-family
+http://www.allaboutdepression.com/cau_03.html
+Hence, it is interesting to use the National Epidemiologic Survey of Drug Use and Health Data
+to investigate the correlation between genetic history and major depression. 
+
+Having done with the investigation of each individual factors, and quantify their 
+influences on major depression. This study will finally study the combined effect, 
+and find out how these variables combines together to cause a major depression. 
+The goal is to find a pattern to predict whether an individual have a major 
+depression or not based on the survey data on his or her sleeping pattern, 
+age group, genetic history, and social phobia potentions. 
+
+
+
+
+
+
+
+
+
