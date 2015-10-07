@@ -1,11 +1,12 @@
-This topic study the causes of major depression based on the National Epidemiologic Survey of Drug Use and Health Data.
-The first step is to establish correlation between major depression and the primary causes of it. 
-In this phase, this study intends to dig quantitative insights for people with sleeping pattern, different age,  
+This topic study the causes of major depression based on the National Epidemiologic 
+Survey of Drug Use and Health Data. The first step is to establish correlation 
+between major depression and the primary causes of it.  In this phase, this 
+study intends to dig quantitative insights for people with sleeping pattern, different age,  
 genetic history and social phobia issues, and quantify how these variables factor in to cause  
-major depression or exacerbate the symptoms. 
-The second step is to use all these studied predictors to build a predictive model, to 
-predict whether a person has a major depression or not based on the data from his or her
-sleeping pattern, age group, genetic history and social phobia. 
+major depression or exacerbate the symptoms.  The second step is to use all these 
+studied predictors to build a predictive model, to  predict whether a person has a major 
+depression or not based on the data from his or her sleeping pattern, age group, 
+genetic history and social phobia. 
 
 There are established correlation between sleeping disorder and major depression
 as suggested by https://sleepfoundation.org/sleep-disorders-problems/depression-and-sleep.
@@ -39,7 +40,7 @@ to investigate the correlation between genetic history and major depression.
 Having done with the investigation of each individual factors, and quantify their 
 influences on major depression. This study will finally study the combined effect, 
 and find out how these variables combines together to cause a major depression. 
-The goal is to find a pattern to predict whether an individual have a major 
+The goal is to find a pattern to predict whether an individual has a major 
 depression or not based on the survey data on his or her sleeping pattern, 
 age group, genetic history, and social phobia potentions. 
 
